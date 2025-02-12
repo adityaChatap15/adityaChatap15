@@ -1,30 +1,59 @@
-<h2> Hey there! 👋 I'm Aditya Chatap.</h2>  
-<h4> 🚀 Passionate about Backend Development, Web Security & Scalable Systems </h4>  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Aditya Chatap's Profile!
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Security+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Enthusiast-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem-Solver-green?style=for-the-badge"/>
+</div>
 
-🎯 **Solving Problems | Building Secure APIs | Exploring New Technologies**  
 
----
+class AdityaChatap:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.language_spoken = ["Hindi", "English"]
+        self.current_focus = "Building Secure & Scalable Systems"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+me = AdityaChatap()
+me.say_hi()
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  
 
----
+🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-<h3> 🌍 &nbsp;Connect with Me</h3>  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chatap-703302230/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/adityaChatap15)  
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/user_zj8g73fvo6n/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/adityachatap123/)  
+📈 Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaChatap15&theme=radical" />
+</div>
+🌐 Connect with me
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-chatap-703302230/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/adityaChatap15">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/adityachatap123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
----
-
-🔥 **"Code, Learn, Secure, Repeat!"** 🔥  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaChatap15&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+⚡ Fun fact: I believe in the power of clean code and secure systems!
