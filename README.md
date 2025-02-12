@@ -18,17 +18,6 @@
 
 ---
 
-<h3> 📊 &nbsp;GitHub Stats</h3>  
-
-<a href="https://github.com/adityaChatap15">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaChatap15&theme=react&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/adityaChatap15">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaChatap15&show_icons=true&theme=react&hide_border=true" width="48%" />
-</a>  
-
----
-
 <h3> 🌍 &nbsp;Connect with Me</h3>  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chatap-703302230/)  
