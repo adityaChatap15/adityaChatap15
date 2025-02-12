@@ -64,7 +64,7 @@ Hi there! I'm a Backend Developer with a strong passion for building secure and 
 🚀 Building Scalable Applications
 ```
 
-🌐 Connect with me
+## 🌐 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-chatap-703302230/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -74,6 +74,9 @@ Hi there! I'm a Backend Developer with a strong passion for building secure and 
   </a>
   <a href="https://leetcode.com/u/adityachatap123/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_zj8g73fvo6n/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </div>
 
