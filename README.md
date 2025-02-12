@@ -32,10 +32,38 @@ Hi there! I'm a Backend Developer with a strong passion for building secure and 
 </div>
 
 
-📈 Stats
+# 🎯 Featured Projects
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaChatap15&theme=radical" />
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://img.shields.io/badge/🔒 VAPT Resolution-Security Project-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://img.shields.io/badge/⚙️ Material Code System-Backend Project-blue?style=for-the-badge" />
+  </a>
 </div>
+
+### Recent Work
+- 🔒 **Security Enhancement Project**: Collaborated with IIT Kanpur for comprehensive VAPT assessment
+- 🛠️ **Material Code System**: Built robust backend with Django & PostgreSQL
+- 🌐 **API Development**: Created secure RESTful services with authentication & authorization
+
+## 💡 Core Competencies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend Development-★★★★☆-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web Security-★★★★☆-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API Design-★★★★☆-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database Design-★★★★☆-yellow?style=for-the-badge" />
+</div>
+
+## 🎯 Current Focus
+```
+📚 Exploring Advanced Security Concepts
+🔍 Learning System Design Patterns
+🚀 Building Scalable Applications
+```
+
 🌐 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-chatap-703302230/">
