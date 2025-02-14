@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Security+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security-Enthusiast-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem-Solver-green?style=for-the-badge"/>
 </div>
 
 ## 🚀 About Me
 
-Hi there! I'm a Backend Developer with a strong passion for building secure and scalable web applications. Currently working on enterprise-level applications using Python and Django, with a focus on implementing robust security measures and optimizing performance.
+Hi there! I'm a Software Developer with a strong passion for building secure and scalable web applications. Currently working on enterprise-level applications using Python and Django, with a focus on implementing robust security measures and optimizing performance.
 
 - 🔭 I'm currently working as a Software Developer Intern at Solar Industries India Ltd
 - 🌱 I'm passionate about Web Security (VAPT) and Backend Development
