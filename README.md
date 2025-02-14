@@ -3,7 +3,7 @@
   Welcome to Aditya Chatap's Profile!
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Security+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Security+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Software-Developer-blue?style=for-the-badge"/>
