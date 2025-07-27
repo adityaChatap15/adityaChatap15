@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-Hi there! I'm a Software Developer with a strong passion for building secure and scalable web applications. Currently working on enterprise-level applications using Python and Django, with a focus on implementing robust security measures and optimizing performance.
+Hi there! I'm a Software Developer with a strong passion for building secure and scalable web applications. Currently working on enterprise-level applications using Python, with a focus on implementing robust cloud security measures and optimizing performance.
 
-- 🔭 I'm currently working as a Software Developer Intern at Solar Industries India Ltd
+- 🔭 I'm currently working as Software Engineer at Cy5.io
 - 🌱 I'm passionate about Web Security (VAPT) and Backend Development
 - 💡 I enjoy solving complex problems and building efficient solutions
 - 🎓 B.Tech in Computer Science Engineering from IPS Academy, Indore
