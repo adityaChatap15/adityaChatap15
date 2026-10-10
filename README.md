@@ -13,7 +13,7 @@
 ```
 
 # Hey, I'm Aditya Chatap 👋
-### Software Engineer · Python & Backend Dev · Cloud Security Enthusiast
+### Software Engineer · Python & Backend Dev · AI Security Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+backends+that+don't+break+at+3AM;Python+%3E+everything+else+%F0%9F%90%8D;Making+clouds+less+scary+since+2024;sudo+rm+-rf+bugs/&font=Fira%20Code&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=20&pause=1000">
 
