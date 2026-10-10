@@ -6,6 +6,7 @@
 ║   > initializing aditya.exe ...                          ║
 ║   > loading python brain ...........................OK    ║
 ║   > connecting to AWS ...............................OK   ║
+║   > loading LLM guardrails ..........................OK   ║
 ║   > brewing coffee ..............................CRITICAL  ║
 ║   > sudo apt-get install motivation ..............OK      ║
 ║                                                           ║
@@ -15,7 +16,7 @@
 # Hey, I'm Aditya Chatap 👋
 ### Software Engineer · Python & Backend Dev · AI Security Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+backends+that+don't+break+at+3AM;Python+%3E+everything+else+%F0%9F%90%8D;Making+clouds+less+scary+since+2024;sudo+rm+-rf+bugs/&font=Fira%20Code&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=20&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+backends+that+don't+break+at+3AM;Python+%3E+everything+else+%F0%9F%90%8D;Making+AI+agents+less+scary+since+2024;Guardrails+%3E+vibes+%F0%9F%9B%A1%EF%B8%8F;sudo+rm+-rf+bugs/&font=Fira%20Code&center=true&width=500&height=50&color=00D9FF&vCenter=true&size=20&pause=1000">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chatap/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaChatap15)
@@ -39,11 +40,12 @@ class Aditya:
         self.education   = "B.Tech CSE — IPS Academy, Indore"
         self.languages   = ["Python 🐍", "Java", "SQL", "PowerShell"]
         self.stack       = ["FastAPI", "Django", "PostgreSQL", "AWS", "Kubernetes"]
-        self.interests   = ["Backend Engineering", "Cloud Security", "Distributed Systems"]
+        self.ai_stack    = ["LLMs", "Agents", "AI Prompts", "Function/Tool Calling", "Deterministic Guardrails"]
+        self.interests   = ["Backend Engineering", "AI Security", "Distributed Systems"]
         self.coffee      = float("inf")  # non-negotiable
 
     def current_status(self):
-        return "Building data pipelines and cloud platform modules at Cy5"
+        return "Building data pipelines and platform modules at Cy5"
 
     def fun_fact(self):
         return "I've written 60+ regex rules and I'm not even sorry about it"
@@ -53,7 +55,7 @@ class Aditya:
 
 me = Aditya()
 print(me.current_status())
-# Output: Building data pipelines and cloud platform modules at Cy5
+# Output: Building data pipelines and platform modules at Cy5
 ```
 
 ---
@@ -77,6 +79,15 @@ print(me.current_status())
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+**AI & LLM Security**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
+![AI Prompts](https://img.shields.io/badge/AI_Prompts-00A67E?style=for-the-badge&logo=chatbot&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_%2F_Tool_Calling-1F6FEB?style=for-the-badge&logo=json&logoColor=white)
+![Deterministic Guardrails](https://img.shields.io/badge/Deterministic_Guardrails-D73A49?style=for-the-badge&logo=shield&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 **Databases & Search**
 
@@ -177,8 +188,11 @@ print(me.current_status())
 ```bash
 $ ls ~/learning/
 
+ai-security/             # prompt injection, jailbreaks, and other ways LLMs get creative
+llm-agents/              # agents with tools > agents with vibes
+tool-calling/            # function calling that does what it's told, and only that
+deterministic-guardrails/ # because "please don't" is not a security control
 distributed-systems/     # event-driven > cron jobs, always
-aws-advanced/            # because "it works on my machine" isn't a deployment strategy  
 system-design/           # drawing boxes and arrows professionally
 devSecOps/               # breaking things before someone else does
 ```
@@ -196,6 +210,9 @@ devSecOps/               # breaking things before someone else does
 > **Bug report:** "It doesn't work."
 > **Me:** *adds one print statement, fixes everything*
 
+> **Prompt:** "Ignore all previous instructions."
+> **Me:** *deterministic guardrail enters the chat* 🚫
+
 ```python
 # My typical Friday evening
 while True:
@@ -210,7 +227,7 @@ while True:
 
 ## 🌱 2025 Goals
 
-- [ ] Get AWS Certified Security – Specialty
+- [ ] Build AI agents with tool calling that are secure by design
 - [ ] Build something people actually use
 - [ ] Write a regex that someone else can also understand
 - [ ] Convince my team that `print()` is a valid debugging strategy
@@ -222,7 +239,7 @@ while True:
 
 ### 💬 Let's Connect
 
-*Always open to talk backend, cloud, security, or why Python is objectively the best language.*
+*Always open to talk backend, LLMs, AI agents, AI security, or why Python is objectively the best language.*
 *(Java fans, I'm sorry. I'm not sorry.)*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-chatap/)
